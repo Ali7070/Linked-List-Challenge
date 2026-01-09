@@ -13,7 +13,7 @@ This project implements a Linked List challenge in C++ using Visual Studio 2022.
 
 This project is intended as a hands-on exercise for improving understanding of linked lists and memory management in C++.
 
-Features
+Features:
 
 Singly linked list implementation
 
@@ -23,21 +23,12 @@ Ordered insertion of nodes
 
 Clean, modular C++ code
 
-Project Structure
-LinkedListChallenge/
-│
-├─ LinkedListChallenge.cpp       # Main program implementing linked list operations
-├─ LinkedListChallenge.sln       # Visual Studio solution file
-├─ LinkedListChallenge.vcxproj   # Project file
-├─ LinkedListChallenge.vcxproj.filters
-├─ .gitignore                    # Git ignore file to exclude build files
-├─ x64/                          # Build output (ignored in Git)
-└─ .vs/                          # Visual Studio cache files (ignored in Git)
+
 
 Getting Started
 Prerequisites
 
-Visual Studio 2022 (Community, Professional, or Enterprise)
+Visual Studio 2022 or newer (Community, Professional, or Enterprise)
 
 C++ workload installed
 
