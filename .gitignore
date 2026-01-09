@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.pdb
+*.ilk
+*.idb
+*.obj
+*.exe
+*.log
+*.tlog/
+x64/
+Debug/
+Release/
